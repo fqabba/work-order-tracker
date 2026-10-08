@@ -31,5 +31,10 @@ A small Node.js application built to practice JavaScript and application develop
 
 ## Run the Project
 
+1. Download or clone the repository.
+2. Open the folder that contains `app.js`.
+3. Open a terminal in that folder.
+4. Run:
+
 ```bash
 node app.js

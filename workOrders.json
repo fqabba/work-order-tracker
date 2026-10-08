@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1001,
+    "machine": "Ion Implanter",
+    "issue": "System not starting",
+    "priority": "High",
+    "status": "Completed"
+  },
+  {
+    "id": 1003,
+    "machine": "Robot Arm",
+    "issue": "Movement error",
+    "priority": "High",
+    "status": "Open"
+  }
+]
